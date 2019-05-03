@@ -1,4 +1,8 @@
 Hola mundo
-Hola que hace el editor de codigo ;v
+Este es un cambio puesto a proposito
+Hola 
 Ajua, cambios sin comentar
 Cambios comentados
+for(int x 0; x < 4; x++)
+  if(Nose == 0)
+    System.out.println("Hola");
