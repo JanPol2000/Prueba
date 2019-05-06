@@ -6,3 +6,5 @@ Cambios comentados
 for(int x 0; x < 4; x++)
   if(Nose == 0)
     System.out.println("Hola");
+    
+Vamos a ver que pasa cuando hago esto :v
